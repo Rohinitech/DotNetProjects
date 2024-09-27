@@ -1,0 +1,13 @@
+C# Interview qns
+
+1. CLR?
+ Common Language Runtime
+
+2.What is NameSpace in .NET Application?
+ NameSpaces are used in C# to organise and provide a level of separation of codes.
+ They can be considered as a Container which consists of other namespaces,classes,etc.
+ A namespace can have following types as its members:
+ Namespaces(Nested Namespace).
+
+3.What is IL?
+ Languages such as C# or Java are not directly complied into machine instructions, but another intermediate code
